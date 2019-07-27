@@ -1,4 +1,4 @@
-# Student and Professor Database System
+# Student and Professor Database System (Fall 2018)
 ## First website created for CPSC332 File Structures and Database Systems 
 By Jayro Alvarez
 
