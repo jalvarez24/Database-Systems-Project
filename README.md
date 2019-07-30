@@ -3,7 +3,7 @@
 By Jayro Alvarez
 
 ## Technologies/Languages: 
-HTML, PHP, SQL, MariaDB, vi, MariaDB, Shell Server
+HTML, PHP, SQL, MariaDB, vi, Shell Server
 
 ## Learning Experience through project:
 This project gave me my first time experience on creating a website. It was the first time I had ever dealth with HTML and PHP, and also using a database. I learned how to create tables with all necessary keys and foreign keys to be able to create flexible queries to allow for efficient data retrieval. 
